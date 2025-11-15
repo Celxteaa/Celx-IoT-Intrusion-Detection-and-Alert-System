@@ -21,8 +21,8 @@ const char* password = "";
 const char* botToken = "";
 const String chatId = "";
 
-// === Blynk status control ===
-bool sistemAktif = true; // dikontrol dari tombol Blynk
+// === Blynk control ===
+bool sistemAktif = true;
 
 // NTP Client
 WiFiUDP ntpUDP;
