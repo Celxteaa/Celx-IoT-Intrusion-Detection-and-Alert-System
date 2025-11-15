@@ -1,7 +1,7 @@
 // === Blynk Template ===
-#define BLYNK_TEMPLATE_ID "TMPL6rKTEvFKg"
-#define BLYNK_TEMPLATE_NAME "Quickstart Device"
-#define BLYNK_AUTH_TOKEN "AyQwCkTyempof3n56d1MzagUe1isX4bp"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
